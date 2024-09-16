@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "fofoca.ai",
-    "slug": "fofoca.ai",
+    "slug": "fofoca-ai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c56de424-31a1-4148-84e7-9d1434b897c3"
+      }
+    },
+    "owner": "fofoca-ai",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/c56de424-31a1-4148-84e7-9d1434b897c3"
     }
   }
 }
